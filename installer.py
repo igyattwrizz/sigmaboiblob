@@ -47,6 +47,7 @@ class InstallScreen(Screen):
             ("Discord", 3, True),
             ("Steam", 4, True),
             ("Minecraft", 5, True),
+            ("Roblox", 6, True),
             id="defaultapps"
         ),),
         Vertical (
